@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-veterinaria/static/css/main.765b16e0.css",
+    "main.js": "/admin-veterinaria/static/js/main.1e6368d1.js",
+    "index.html": "/admin-veterinaria/index.html",
+    "main.765b16e0.css.map": "/admin-veterinaria/static/css/main.765b16e0.css.map",
+    "main.1e6368d1.js.map": "/admin-veterinaria/static/js/main.1e6368d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765b16e0.css",
+    "static/js/main.1e6368d1.js"
+  ]
+}
